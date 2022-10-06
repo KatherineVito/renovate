@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9c3d62e919c2177ee2d1eff04c5d4018",
+    "content-hash": "41056e3c9b046c03f07c7dcb8a94b509",
     "packages": [
         {
             "name": "phpmailer/phpmailer",
@@ -52,8 +52,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "LGPL-2.1-only",
-                "GPL-3.0-or-later"
+                "LGPL-2.1-only"
             ],
             "authors": [
                 {

@@ -1,20 +1,20 @@
 <?php return array(
     'root' => array(
-        'name' => '__root__',
+        'name' => 'lullabot/lullabot.com-d8',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'cf13e8eda190f3296b3c3b930c005f91c1804957',
-        'type' => 'library',
+        'reference' => 'cec8acc3cc8678e9b6c1797a5a7eaf1d85fae2fa',
+        'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        '__root__' => array(
+        'lullabot/lullabot.com-d8' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'cf13e8eda190f3296b3c3b930c005f91c1804957',
-            'type' => 'library',
+            'reference' => 'cec8acc3cc8678e9b6c1797a5a7eaf1d85fae2fa',
+            'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
             'dev_requirement' => false,
