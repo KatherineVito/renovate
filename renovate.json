@@ -4,6 +4,10 @@
     "config:base"
   ],
   "prHourlyLimit": 3,
-  "prConcurrentLimit": 2,
-  "rangeStrategy": "bump"
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["major"],
+      "dependencyDashboardApproval": true
+    }
+  ]
 }
