@@ -3,7 +3,7 @@
         'name' => 'lullabot/lullabot.com-d8',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'cec8acc3cc8678e9b6c1797a5a7eaf1d85fae2fa',
+        'reference' => '85becc59187c9b06a0b3b1f187f74a85964726d4',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'lullabot/lullabot.com-d8' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'cec8acc3cc8678e9b6c1797a5a7eaf1d85fae2fa',
+            'reference' => '85becc59187c9b06a0b3b1f187f74a85964726d4',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
